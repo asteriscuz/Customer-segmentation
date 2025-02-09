@@ -12,7 +12,6 @@ Univariate clustering based on annual income
 Bivariate clustering using income and spending scores
 Multivariate clustering incorporating age, income, spending score, and gender
 
-
 Detailed visualization of customer segments using seaborn and matplotlib
 Gender-based analysis of shopping patterns
 Correlation analysis between different customer attributes
@@ -38,10 +37,10 @@ Correlation analysis between different customer attributes
 ## Results and Insights
 ### Customer Demographics
 
-Gender distribution: 56% Female, 44% Male
-Average age: ~39 years
-Average annual income: $60.56k
-Average spending score: 50.2 out of 100
+- Gender distribution: 56% Female, 44% Male
+- Average age: ~39 years
+- Average annual income: $60.56k
+- Average spending score: 50.2 out of 100
 
 ## Key Findings
 
