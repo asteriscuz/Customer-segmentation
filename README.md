@@ -3,18 +3,18 @@
 ## Project Description
 
 This project implements customer segmentation analysis on mall customer data using various clustering techniques. The analysis aims to help retail businesses better understand their customer base by identifying distinct customer groups based on demographic and behavioral factors such as age, annual income, and spending patterns.
-Features
+
+## Features
 
 Comprehensive data analysis including univariate, bivariate, and multivariate analysis
 Multiple clustering approaches (K-means clustering):
 
-Univariate clustering based on annual income
-Bivariate clustering using income and spending scores
-Multivariate clustering incorporating age, income, spending score, and gender
-
-Detailed visualization of customer segments using seaborn and matplotlib
-Gender-based analysis of shopping patterns
-Correlation analysis between different customer attributes
+- Univariate clustering based on annual income. 
+- Bivariate clustering using income and spending scores. 
+- Multivariate clustering incorporating age, income, spending score, and gender.
+- Detailed visualization of customer segments using seaborn and matplotlib.
+- Gender-based analysis of shopping patterns.
+- Correlation analysis between different customer attributes.
 
 ## Visualizations
 
